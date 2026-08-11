@@ -1,0 +1,9 @@
+Breast Cancer Prediction Using Machine Learning
+
+This is one of my beginner Machine Learning projects, created while learning how ML can be applied to healthcare-related problems.
+
+The project uses a breast cancer dataset containing 569 samples and 30 numerical features related to cell characteristics, with the target being Malignant or Benign diagnosis.
+
+The goal of this project is to learn the basic ML workflow, including data exploration, preprocessing, feature selection, model training, prediction, and performance evaluation.
+
+Technologies: Python • Pandas • NumPy • Scikit-learn • Matplotlib
